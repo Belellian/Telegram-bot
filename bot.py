@@ -2,7 +2,7 @@ import random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler
 
-TOKEN = "8076485820:AAHRnb5UHIlaUg3p0akZ9zrpXpicPgPUb14"
+TOKEN = "токен"
 
 HOROSCOPES = {
     "овен": [
